@@ -22,3 +22,5 @@ alias gk='gitk --all&';
 alias gx='gitx --all';
 alias gg='~/github/fei-mac/src/git/quick-git-commit.sh';
 alias ggg='gaa && gcm "wip" && gp';
+
+source ~/github/fei-mac/src/git/init_once.sh;

@@ -14,7 +14,7 @@ alias e-hosts='sudo vim /etc/hosts';
 
 
 #Edit file
-alias e-alias='vim ~/github/fei-mac/src/index.sh';
+alias e-alias='atom ~/github/fei-mac';
 alias alias-reload='source ~/github/fei-mac/src/index.sh';
 
 
