@@ -1,10 +1,8 @@
 #!/usr/bin/env bash
 
-source ~/github/fei-mac/src/apache/index.sh;
-source ~/github/fei-mac/src/base/index.sh;
-source ~/github/fei-mac/src/git/index.sh;
-source ~/github/fei-mac/src/mysql/index.sh;
-source ~/github/fei-mac/src/nginx/index.sh;
-source ~/github/fei-mac/src/nodejs/index.sh;
-source ~/github/fei-mac/src/php/index.sh;
-source ~/github/fei-mac/src/vim/index.sh;
+for dir in $(ls ~/github/fei-mac/src)
+do
+  if [ -d ~/github/fei-mac/src/$dir ]; then
+    source ~/github/fei-mac/src/$dir/index.sh;
+  fi
+done
