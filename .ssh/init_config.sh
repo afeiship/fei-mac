@@ -3,6 +3,8 @@
 touch ~/.ssh/config;
 chmod 600 ~/.ssh/config;
 
+##create id_rsa
+ssh-keygen
 
 ##create oschina:
 ssh-keygen -t rsa -f ~/.ssh/id_rsa.oschina.net -C "Key for git.oschina.net";
