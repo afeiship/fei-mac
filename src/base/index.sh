@@ -16,6 +16,7 @@ alias e-hosts='sudo vim /etc/hosts';
 #Edit file
 alias e-alias='atom ~/github/fei-mac';
 alias alias-reload='source ~/github/fei-mac/src/index.sh';
+alias alias-update='gg "Auto update alias config"';
 
 #offline a site:
 alias offline-site='wget -m -k -K -E ';
