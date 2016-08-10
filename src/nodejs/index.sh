@@ -2,6 +2,7 @@
 
 #nodejs
 alias npm-install='npm install';
+alias npm-uninstall='npm uninstall';
 alias npm-cninstall='cnpm install';
 alias bower-install='bower install';
 alias npm-clean='rm -rf node_modules';
