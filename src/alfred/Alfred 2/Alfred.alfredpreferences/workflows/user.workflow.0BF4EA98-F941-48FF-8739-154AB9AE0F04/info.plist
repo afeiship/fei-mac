@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>dacang-001</string>
+	<key>connections</key>
+	<dict>
+		<key>274A5A76-89BB-4747-8AED-83CA49CC7C7C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>48D60515-720C-4940-94ED-ECBD0A7EF6C8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>afei</string>
+	<key>description</key>
+	<string>deploy html to IOS project &amp;&amp; commit to git.</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>deploy-ios</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>deploy-ios</string>
+				<key>subtext</key>
+				<string>deploy HTML to IOS git repositry.</string>
+				<key>text</key>
+				<string>deploy-ios</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>274A5A76-89BB-4747-8AED-83CA49CC7C7C</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>sh /Users/feizheng/git-oschina/dacang-remix/deploy_ios.sh</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.terminalcommand</string>
+			<key>uid</key>
+			<string>48D60515-720C-4940-94ED-ECBD0A7EF6C8</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string></string>
+	<key>uidata</key>
+	<dict>
+		<key>274A5A76-89BB-4747-8AED-83CA49CC7C7C</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+		<key>48D60515-720C-4940-94ED-ECBD0A7EF6C8</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+	</dict>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>
