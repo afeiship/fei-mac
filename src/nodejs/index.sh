@@ -19,3 +19,6 @@ alias nu='npm uninstall';
 alias nu-g='npm uninstall -g';
 alias nu-d='npm uninstall --save-dev';
 alias nu-s='npm uninstall --save';
+
+alias npm-dev='npm run dev';
+alias npm-build='npm run build';
