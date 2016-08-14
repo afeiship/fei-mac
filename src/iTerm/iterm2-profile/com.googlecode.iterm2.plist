@@ -433,8 +433,10 @@
 	</dict>
 	<key>Default Bookmark Guid</key>
 	<string>F9D1C4AE-C5C1-4CF1-8906-BD117264286A</string>
+	<key>DimBackgroundWindows</key>
+	<true/>
 	<key>DimOnlyText</key>
-	<false/>
+	<true/>
 	<key>DisableFullscreenTransparency</key>
 	<false/>
 	<key>FlashTabBarInFullscreen</key>
@@ -478,7 +480,7 @@
 		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
 		hAErATGG
 		</data>
-		<string>307</string>
+		<string>322</string>
 	</array>
 	<key>NSTableView Hidden Columns KeyBingingTable</key>
 	<array/>
@@ -490,9 +492,9 @@
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame Preferences</key>
-	<string>269 407 606 456 0 0 1920 1177 </string>
+	<string>269 465 606 456 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>616 463 586 474 0 0 1920 1177 </string>
+	<string>742 343 607 474 0 0 1920 1177 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -1142,6 +1144,16 @@
 			<string>/Users/feizheng</string>
 		</dict>
 	</array>
+	<key>NoSyncCommandHistoryHasEverBeenUsed</key>
+	<true/>
+	<key>NoSyncDoNotWarnBeforeMultilinePaste</key>
+	<true/>
+	<key>NoSyncDoNotWarnBeforeMultilinePaste_selection</key>
+	<integer>0</integer>
+	<key>NoSyncInstallUtilitiesPackage</key>
+	<true/>
+	<key>NoSyncInstallUtilitiesPackage_selection</key>
+	<integer>0</integer>
 	<key>NoSyncInstallationId</key>
 	<string>72AFAED0-98DA-4DB8-9BD3-C221343EE758</string>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
@@ -1150,6 +1162,8 @@
 	<integer>0</integer>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
 	<real>492754725.21574599</real>
+	<key>OpenBookmark</key>
+	<false/>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>
@@ -1201,6 +1215,8 @@
 	<true/>
 	<key>SmartPlacement</key>
 	<true/>
+	<key>SplitPaneDimmingAmount</key>
+	<real>0.37019481169871793</real>
 	<key>TabStyle</key>
 	<integer>3</integer>
 	<key>ToolbeltTools</key>
