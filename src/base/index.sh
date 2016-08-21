@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+#init:
+archey;
 
 #base
 alias ll='ls -al';
