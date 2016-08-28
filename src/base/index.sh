@@ -9,6 +9,7 @@ alias su-root='sudo su root';
 alias cls='clear';
 alias g-myip='ifconfig | grep "inet " | grep -v 127.0.0.1';
 alias g-remove='rm -rf * .* *.*';
+alias g-cp='rsync -av --progress'
 
 source ~/github/fei-mac/src/base/cd.sh;
 
