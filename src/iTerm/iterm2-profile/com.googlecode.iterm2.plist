@@ -454,7 +454,7 @@
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/yunpan/007-Software/Mac/iTerm</string>
+	<string>~/Downloads/mbadolato-iTerm2-Color-Schemes-b92443c/schemes</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{712, 448}</string>
 	<key>NSNavPanelExpandedSizeForSaveMode</key>
@@ -492,9 +492,17 @@
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame Preferences</key>
-	<string>269 465 606 456 0 0 1920 1177 </string>
+	<string>269 697 606 456 0 0 1920 1177 </string>
+	<key>NSWindow Frame SUStatusFrame</key>
+	<string>1071 893 400 129 0 0 1920 1177 </string>
+	<key>NSWindow Frame SUUpdateAlert</key>
+	<string>650 607 620 392 0 0 1920 1177 </string>
+	<key>NSWindow Frame SessionsPreferences</key>
+	<string>269 116 599 505 0 0 1920 1177 </string>
+	<key>NSWindow Frame SharedPreferences</key>
+	<string>-3 450 918 452 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>742 343 607 474 0 0 1920 1177 </string>
+	<string>1212 423 397 489 0 0 1920 1177 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -1160,6 +1168,8 @@
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
 	<integer>0</integer>
+	<key>NoSyncPermissionToShowTip</key>
+	<false/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
 	<real>492754725.21574599</real>
 	<key>OpenBookmark</key>
@@ -1208,7 +1218,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2016-08-13T04:20:46Z</date>
+	<date>2016-09-01T12:43:56Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowFullScreenTabBar</key>
@@ -1218,7 +1228,7 @@
 	<key>SplitPaneDimmingAmount</key>
 	<real>0.37019481169871793</real>
 	<key>TabStyle</key>
-	<integer>3</integer>
+	<integer>0</integer>
 	<key>ToolbeltTools</key>
 	<array>
 		<string>Profiles</string>
@@ -1229,6 +1239,6 @@
 	<key>WordCharacters</key>
 	<string>/-+\~_.</string>
 	<key>iTerm Version</key>
-	<string>3.0.4</string>
+	<string>3.0.7</string>
 </dict>
 </plist>
