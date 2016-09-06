@@ -32111,7 +32111,11 @@
 	<key>NSWindow Frame SharedPreferences</key>
 	<string>416 768 918 381 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>226 155 572 474 0 0 1920 1177 </string>
+	<string>769 342 572 474 0 0 1920 1177 </string>
+	<key>NeverWarnAboutShortLivedSessions_F9D1C4AE-C5C1-4CF1-8906-BD117264286A</key>
+	<true/>
+	<key>NeverWarnAboutShortLivedSessions_F9D1C4AE-C5C1-4CF1-8906-BD117264286A_selection</key>
+	<integer>0</integer>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -32827,7 +32831,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2016-09-03T13:13:44Z</date>
+	<date>2016-09-04T13:14:25Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowFullScreenTabBar</key>
