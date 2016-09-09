@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 alias cd-='cd -';
+alias ..='cd ..';
 alias cd-osc='cd ~/git-oschina';
 alias cd-git='cd ~/github';
 alias cd-svn='cd ~/svn';
