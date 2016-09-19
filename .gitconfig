@@ -6,15 +6,17 @@
 	compression = 0
 	packedGitLimit = 512m
 	packedGitWindowSize = 512m
-[pack] 
+[pack]
 	deltaCacheSize = 2047m
 	packSizeLimit = 2047m
 	windowMemory = 2047m
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-	path = 
+	path =
 [mergetool "sourcetree"]
 	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
 	trustExitCode = true
 [commit]
 	template = /Users/feizheng/.stCommitMsg
+[http]
+	sslVerify = false
