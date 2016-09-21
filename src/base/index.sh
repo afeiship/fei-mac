@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #init:
-archey;
+# archey;
 
 #base
 alias ll='ls -al';
