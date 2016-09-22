@@ -1,0 +1,24 @@
+{
+  "name": "fei-mac",
+  "homepage": "https://github.com/afeiship/fei-mac",
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "description": "Fei's mac settings.",
+  "main": "index.sh",
+  "keywords": [
+    "fei",
+    "mac"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ushell-module-base": "afeiship/ushell-module-base"
+  }
+}
