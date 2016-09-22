@@ -27,6 +27,5 @@
   },
   "_source": "git://github.com/afeiship/ushell-module-base.git",
   "_target": "*",
-  "_originalSource": "afeiship/ushell-module-base",
-  "_direct": true
+  "_originalSource": "afeiship/ushell-module-base"
 }
