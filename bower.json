@@ -20,6 +20,14 @@
   ],
   "dependencies": {
     "ushell-module-base": "afeiship/ushell-module-base",
-    "ushell-module-git": "afeiship/ushell-module-git"
+    "ushell-module-git": "afeiship/ushell-module-git",
+    "ushell-module-bower": "afeiship/ushell-module-bower",
+    "ushell-module-network": "afeiship/ushell-module-network",
+    "ushell-module-react": "afeiship/ushell-module-react",
+    "ushell-module-autojump": "afeiship/ushell-module-autojump",
+    "ushell-module-tar": "afeiship/ushell-module-tar",
+    "ushell-module-vim": "afeiship/ushell-module-vim",
+    "ushell-module-yeoman": "afeiship/ushell-module-yeoman",
+    "ushell-module-nodejs": "afeiship/ushell-module-nodejs"
   }
 }
