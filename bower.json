@@ -28,6 +28,7 @@
     "ushell-module-tar": "afeiship/ushell-module-tar",
     "ushell-module-vim": "afeiship/ushell-module-vim",
     "ushell-module-yeoman": "afeiship/ushell-module-yeoman",
+    "ushell-module-mysql": "afeiship/ushell-module-mysql",
     "ushell-module-nodejs": "afeiship/ushell-module-nodejs"
   }
 }
