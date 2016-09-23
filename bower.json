@@ -19,6 +19,7 @@
     "tests"
   ],
   "dependencies": {
-    "ushell-module-base": "afeiship/ushell-module-base"
+    "ushell-module-base": "afeiship/ushell-module-base",
+    "ushell-module-git": "afeiship/ushell-module-git"
   }
 }

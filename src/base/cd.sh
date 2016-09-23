@@ -12,5 +12,4 @@ alias cd-tmp='cd /Users/feizheng/git-oschina/temp';
 
 
 ##work:
-alias cd-yp='cd ~/yunpan';
 alias cd-dc='cd ~/yunpan/014-Work/Dacang';
