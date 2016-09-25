@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-alias nginx-edit-conf='vim /usr/local/etc/nginx/nginx.conf';
+alias e-nginx='vim /usr/local/etc/nginx/nginx.conf';
 alias nginx-t='sudo nginx -t';
 alias nginx-reload='sudo nginx -s reload';
 alias nginx-start='sudo nginx';

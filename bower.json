@@ -29,6 +29,11 @@
     "ushell-module-vim": "afeiship/ushell-module-vim",
     "ushell-module-yeoman": "afeiship/ushell-module-yeoman",
     "ushell-module-mysql": "afeiship/ushell-module-mysql",
-    "ushell-module-nodejs": "afeiship/ushell-module-nodejs"
+    "ushell-module-nodejs": "afeiship/ushell-module-nodejs",
+    "ushell-module-wget": "afeiship/ushell-module-wget",
+    "ushell-module-php": "afeiship/ushell-module-php",
+    "ushell-module-ssh": "afeiship/ushell-module-ssh",
+    "ushell-module-afloat": "afeiship/ushell-module-afloat",
+    "ushell-module-archey": "afeiship/ushell-module-archey"
   }
 }
