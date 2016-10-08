@@ -34,6 +34,7 @@
     "ushell-module-php": "afeiship/ushell-module-php",
     "ushell-module-ssh": "afeiship/ushell-module-ssh",
     "ushell-module-afloat": "afeiship/ushell-module-afloat",
-    "ushell-module-archey": "afeiship/ushell-module-archey"
+    "ushell-module-archey": "afeiship/ushell-module-archey",
+    "ushell-module-ruby": "afeiship/ushell-module-ruby"
   }
 }
