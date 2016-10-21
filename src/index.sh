@@ -24,3 +24,4 @@ done
 alias e-alias='atom ~/github/fei-mac';
 alias alias-reload='source ~/github/fei-mac/src/index.sh';
 alias alias-backup='cd ~/github/fei-mac/ && gg "Automatic update alias config" && cd -';
+alias alias-macfiles='cd ~/git-oschina/backup-mac-files/ && gg "Automatic backup mac files" && cd -';
