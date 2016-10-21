@@ -36,6 +36,7 @@
     "ushell-module-afloat": "afeiship/ushell-module-afloat",
     "ushell-module-archey": "afeiship/ushell-module-archey",
     "ushell-module-ruby": "afeiship/ushell-module-ruby",
-    "ushell-module-sysinfo": "afeiship/ushell-module-sysinfo"
+    "ushell-module-sysinfo": "afeiship/ushell-module-sysinfo",
+    "ushell-module-hosts": "afeiship/ushell-module-hosts"
   }
 }
