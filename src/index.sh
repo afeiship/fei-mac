@@ -2,6 +2,7 @@
 
 ## initail ushell_modules:
 ROOT_PATH=~/github/fei-mac;
+
 for dir in $(ls $ROOT_PATH/ushell_modules)
 do
   if [ -d $ROOT_PATH/ushell_modules/$dir ]; then
