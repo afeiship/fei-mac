@@ -2,26 +2,26 @@
 
 ## initail ushell_modules:
 ROOT_PATH=~/github/fei-mac;
-for dir in $(ls ~/github/fei-mac/ushell_modules)
+for dir in $(ls $ROOT_PATH/ushell_modules)
 do
-  if [ -d ~/github/fei-mac/ushell_modules/$dir ]; then
+  if [ -d $ROOT_PATH/ushell_modules/$dir ]; then
     # echo $dir;
-    source ~/github/fei-mac/ushell_modules/$dir/index.sh;
+    source $ROOT_PATH/ushell_modules/$dir/index.sh;
   fi
 done
 
 ## initail customize modules:
-for dir in $(ls ~/github/fei-mac/src)
+for dir in $(ls $ROOT_PATH/src)
 do
-  if [ -d ~/github/fei-mac/src/$dir ]; then
-    source ~/github/fei-mac/src/$dir/index.sh;
+  if [ -d $ROOT_PATH/src/$dir ]; then
+    source $ROOT_PATH/src/$dir/index.sh;
   fi
 done
 
 
 
 #Edit file
-alias e-alias='atom ~/github/fei-mac';
-alias alias-reload='source ~/github/fei-mac/src/index.sh';
-alias alias-backup='cd ~/github/fei-mac/ && gg "Automatic update alias config" && cd -';
+alias e-alias='atom $ROOT_PATH';
+alias alias-reload='source $ROOT_PATH/src/index.sh';
+alias alias-backup='cd $ROOT_PATH/ && gg "Automatic update alias config" && cd -';
 alias macfiles-backup='cd ~/git-oschina/backup-mac-files/ && gg "Automatic backup mac files" && cd -';
