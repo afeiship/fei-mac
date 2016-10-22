@@ -34,3 +34,7 @@ alias macfiles-backup='cd ~/git-oschina/backup-mac-files/ && gg "Automatic backu
 
 ##resource:
 + http://www.cnblogs.com/taosim/articles/2610170.html
+
+
+## todos:
+- [ ] unset ROOT_PATH;
