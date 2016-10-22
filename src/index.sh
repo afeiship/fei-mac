@@ -3,6 +3,7 @@
 ## initail ushell_modules:
 ROOT_PATH=~/github/fei-mac;
 
+## initail unix shell modules:
 for dir in $(ls $ROOT_PATH/ushell_modules)
 do
   if [ -d $ROOT_PATH/ushell_modules/$dir ]; then
@@ -18,8 +19,6 @@ do
     source $ROOT_PATH/src/$dir/index.sh;
   fi
 done
-
-
 
 #Edit file
 alias e-alias='atom $ROOT_PATH';
