@@ -31,12 +31,12 @@
     "ushell-module-mysql": "afeiship/ushell-module-mysql",
     "ushell-module-nodejs": "afeiship/ushell-module-nodejs",
     "ushell-module-wget": "afeiship/ushell-module-wget",
-    "ushell-module-php": "afeiship/ushell-module-php",
     "ushell-module-ssh": "afeiship/ushell-module-ssh",
     "ushell-module-afloat": "afeiship/ushell-module-afloat",
     "ushell-module-archey": "afeiship/ushell-module-archey",
     "ushell-module-ruby": "afeiship/ushell-module-ruby",
     "ushell-module-sysinfo": "afeiship/ushell-module-sysinfo",
+    "ushell-module-php-fpm": "afeiship/ushell-module-php-fpm",
     "ushell-module-hosts": "afeiship/ushell-module-hosts"
   }
 }
