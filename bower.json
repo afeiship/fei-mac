@@ -38,6 +38,7 @@
     "ushell-module-sysinfo": "afeiship/ushell-module-sysinfo",
     "ushell-module-php-fpm": "afeiship/ushell-module-php-fpm",
     "ushell-module-hosts": "afeiship/ushell-module-hosts",
-    "ushell-module-dotfiles": "afeiship/ushell-module-dotfiles"
+    "ushell-module-dotfiles": "afeiship/ushell-module-dotfiles",
+    "ushell-module-iterm2": "afeiship/ushell-module-iterm2"
   }
 }
