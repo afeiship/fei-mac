@@ -2,6 +2,7 @@
 
 ## initail ushell_modules:
 BASH_BASE_PATH=~/github/fei-mac;
+
 for dir in $(ls $BASH_BASE_PATH/ushell_modules)
 do
   if [ -d $BASH_BASE_PATH/ushell_modules/$dir ]; then
