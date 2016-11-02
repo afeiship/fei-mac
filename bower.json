@@ -41,6 +41,7 @@
     "ushell-module-ostype": "afeiship/ushell-module-ostype",
     "ushell-module-rbenv": "afeiship/ushell-module-rbenv",
     "ushell-module-rails": "afeiship/ushell-module-rails",
+    "ushell-module-vagrant": "afeiship/ushell-module-vagrant",
     "ushell-module-iterm2": "afeiship/ushell-module-iterm2"
   }
 }
