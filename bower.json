@@ -43,6 +43,7 @@
     "ushell-module-rails": "afeiship/ushell-module-rails",
     "ushell-module-vagrant": "afeiship/ushell-module-vagrant",
     "ushell-module-iterm2": "afeiship/ushell-module-iterm2",
+    "ushell-module-yarn": "afeiship/ushell-module-yarn",
     "ushell-module-mysqldump": "afeiship/ushell-module-mysqldump"
   }
 }
