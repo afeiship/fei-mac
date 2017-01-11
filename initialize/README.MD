@@ -7,6 +7,10 @@
 + git config 设置
 
 ```conf
+# base setting:
+git config --global user.email "1290657123@qq.com";
+git config --global user.name "afeiship";
+
 # oschina:
 git@git.oschina.net:afeiship/backup-mac-files.git
 
