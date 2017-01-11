@@ -6,6 +6,9 @@
 + 下载这几个git repositry:
 
 ```conf
+# oschina:
 git@git.oschina.net:afeiship/backup-mac-files.git
 
+# github:
+git@github.com:afeiship/fei-mac.git
 ```
