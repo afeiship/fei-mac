@@ -5,6 +5,7 @@
 + 配置好ssh,用这个脚本：./init_ssh.sh
 + 下载这几个git repositry:
 + git config 设置
++ 设置计算机名：sudo scutil --set ComputerName "mac"
 
 ```conf
 # base setting:
