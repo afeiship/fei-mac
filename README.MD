@@ -1,4 +1,4 @@
-#fei-mac
+# fei-mac
 Fei's mac settings.
 
 
@@ -25,7 +25,7 @@ do
 done
 
 
-#Edit file
+# Edit file
 alias e-alias='atom $BASH_BASE_PATH';
 alias alias-reload='source $BASH_BASE_PATH/src/index.sh';
 alias alias-backup='cd $BASH_BASE_PATH/ && gg "Automatic update alias config" && cd -';
@@ -34,9 +34,10 @@ alias macfiles-backup='cd ~/git-oschina/backup-mac-files/ && gg "Automatic backu
 
 ```
 
-##resource:
+## resource:
 + http://www.cnblogs.com/taosim/articles/2610170.html
 
 
 ## todos:
-- [ ] unset ROOT_PATH;
+- [x] unset ROOT_PATH;
+- [ ] optimize index.sh
