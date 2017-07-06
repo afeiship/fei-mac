@@ -45,6 +45,7 @@
     "ushell-module-iterm2": "afeiship/ushell-module-iterm2",
     "ushell-module-yarn": "afeiship/ushell-module-yarn",
     "ushell-module-mysqldump": "afeiship/ushell-module-mysqldump",
-    "ushell-module-vscode": "afeiship/ushell-module-vscode"
+    "ushell-module-vscode": "afeiship/ushell-module-vscode",
+    "ushell-module-go": "afeiship/ushell-module-go"
   }
 }
