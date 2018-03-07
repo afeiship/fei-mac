@@ -46,6 +46,7 @@
     "ushell-module-yarn": "afeiship/ushell-module-yarn",
     "ushell-module-mysqldump": "afeiship/ushell-module-mysqldump",
     "ushell-module-vscode": "afeiship/ushell-module-vscode",
-    "ushell-module-go": "afeiship/ushell-module-go"
+    "ushell-module-go": "afeiship/ushell-module-go",
+    "ushell-module-nvm": "afeiship/ushell-module-nvm"
   }
 }
