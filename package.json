@@ -1,0 +1,51 @@
+{
+  "name": "fei-mac",
+  "version": "1.0.0",
+  "description": "Fei's mac settings.",
+  "main": "src/index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/fei-mac.git"
+  },
+  "keywords": [
+    "mac",
+    "setting"
+  ],
+  "author": "afei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afeiship/fei-mac/issues"
+  },
+  "homepage": "https://github.com/afeiship/fei-mac#readme",
+  "dependencies": {
+    "ushell-module-base": "afeiship/ushell-module-base",
+    "ushell-module-git": "afeiship/ushell-module-git",
+    "ushell-module-bower": "afeiship/ushell-module-bower",
+    "ushell-module-network": "afeiship/ushell-module-network",
+    "ushell-module-react": "afeiship/ushell-module-react",
+    "ushell-module-autojump": "afeiship/ushell-module-autojump",
+    "ushell-module-tar": "afeiship/ushell-module-tar",
+    "ushell-module-vim": "afeiship/ushell-module-vim",
+    "ushell-module-yeoman": "afeiship/ushell-module-yeoman",
+    "ushell-module-mysql": "afeiship/ushell-module-mysql",
+    "ushell-module-nodejs": "afeiship/ushell-module-nodejs",
+    "ushell-module-wget": "afeiship/ushell-module-wget",
+    "ushell-module-ssh": "afeiship/ushell-module-ssh",
+    "ushell-module-afloat": "afeiship/ushell-module-afloat",
+    "ushell-module-ruby": "afeiship/ushell-module-ruby",
+    "ushell-module-sysinfo": "afeiship/ushell-module-sysinfo",
+    "ushell-module-php-fpm": "afeiship/ushell-module-php-fpm",
+    "ushell-module-hosts": "afeiship/ushell-module-hosts",
+    "ushell-module-dotfiles": "afeiship/ushell-module-dotfiles",
+    "ushell-module-ostype": "afeiship/ushell-module-ostype",
+    "ushell-module-rbenv": "afeiship/ushell-module-rbenv",
+    "ushell-module-rails": "afeiship/ushell-module-rails",
+    "ushell-module-vagrant": "afeiship/ushell-module-vagrant",
+    "ushell-module-iterm2": "afeiship/ushell-module-iterm2",
+    "ushell-module-yarn": "afeiship/ushell-module-yarn",
+    "ushell-module-mysqldump": "afeiship/ushell-module-mysqldump",
+    "ushell-module-vscode": "afeiship/ushell-module-vscode",
+    "ushell-module-go": "afeiship/ushell-module-go",
+    "ushell-module-nvm": "afeiship/ushell-module-nvm"
+  }
+}
