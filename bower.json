@@ -39,7 +39,6 @@
     "ushell-module-hosts": "afeiship/ushell-module-hosts",
     "ushell-module-dotfiles": "afeiship/ushell-module-dotfiles",
     "ushell-module-ostype": "afeiship/ushell-module-ostype",
-    "ushell-module-rbenv": "afeiship/ushell-module-rbenv",
     "ushell-module-rails": "afeiship/ushell-module-rails",
     "ushell-module-vagrant": "afeiship/ushell-module-vagrant",
     "ushell-module-iterm2": "afeiship/ushell-module-iterm2",
