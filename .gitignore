@@ -2,5 +2,5 @@ ushell_modules
 node_modules
 yarn.lock
 package-lock.json
-.idea
 .DS_Store
+.idea
