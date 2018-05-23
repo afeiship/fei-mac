@@ -32,6 +32,7 @@
     "ushell-module-mysql": "afeiship/ushell-module-mysql",
     "ushell-module-mysqldump": "afeiship/ushell-module-mysqldump",
     "ushell-module-network": "afeiship/ushell-module-network",
+    "ushell-module-nginx": "afeiship/ushell-module-nginx",
     "ushell-module-nodejs": "afeiship/ushell-module-nodejs",
     "ushell-module-nvm": "afeiship/ushell-module-nvm",
     "ushell-module-ostype": "afeiship/ushell-module-ostype",
