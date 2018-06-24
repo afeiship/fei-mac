@@ -23,6 +23,7 @@
     "ushell-module-base": "afeiship/ushell-module-base",
     "ushell-module-bower": "afeiship/ushell-module-bower",
     "ushell-module-dotfiles": "afeiship/ushell-module-dotfiles",
+    "ushell-module-flutter": "github:afeiship/ushell-module-flutter",
     "ushell-module-git": "afeiship/ushell-module-git",
     "ushell-module-go": "afeiship/ushell-module-go",
     "ushell-module-homebrew": "github:afeiship/ushell-module-homebrew",
