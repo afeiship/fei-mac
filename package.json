@@ -45,6 +45,7 @@
     "ushell-module-sysinfo": "afeiship/ushell-module-sysinfo",
     "ushell-module-tar": "afeiship/ushell-module-tar",
     "ushell-module-tomcat": "afeiship/ushell-module-tomcat",
+    "ushell-module-typora": "github:afeiship/ushell-module-typora",
     "ushell-module-vagrant": "afeiship/ushell-module-vagrant",
     "ushell-module-vim": "afeiship/ushell-module-vim",
     "ushell-module-vscode": "afeiship/ushell-module-vscode",
