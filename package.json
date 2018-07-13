@@ -21,6 +21,7 @@
     "ushell-module-afloat": "afeiship/ushell-module-afloat",
     "ushell-module-autojump": "afeiship/ushell-module-autojump",
     "ushell-module-base": "afeiship/ushell-module-base",
+    "ushell-module-bash-completion": "github:afeiship/ushell-module-bash-completion",
     "ushell-module-bower": "afeiship/ushell-module-bower",
     "ushell-module-dotfiles": "afeiship/ushell-module-dotfiles",
     "ushell-module-flutter": "github:afeiship/ushell-module-flutter",
