@@ -23,6 +23,7 @@
     "ushell-module-base": "afeiship/ushell-module-base",
     "ushell-module-bash-completion": "github:afeiship/ushell-module-bash-completion",
     "ushell-module-bower": "afeiship/ushell-module-bower",
+    "ushell-module-dart-sass": "github:afeiship/ushell-module-dart-sass",
     "ushell-module-dotfiles": "afeiship/ushell-module-dotfiles",
     "ushell-module-flutter": "github:afeiship/ushell-module-flutter",
     "ushell-module-git": "afeiship/ushell-module-git",
