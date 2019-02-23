@@ -42,6 +42,7 @@
     "ushell-module-php-fpm": "afeiship/ushell-module-php-fpm",
     "ushell-module-rails": "afeiship/ushell-module-rails",
     "ushell-module-random": "github:afeiship/ushell-module-random",
+    "ushell-module-rbenv": "github:afeiship/ushell-module-rbenv",
     "ushell-module-react": "afeiship/ushell-module-react",
     "ushell-module-ruby": "afeiship/ushell-module-ruby",
     "ushell-module-ssh": "afeiship/ushell-module-ssh",
