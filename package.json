@@ -25,6 +25,7 @@
     "ushell-module-bower": "afeiship/ushell-module-bower",
     "ushell-module-dart-sass": "github:afeiship/ushell-module-dart-sass",
     "ushell-module-dotfiles": "afeiship/ushell-module-dotfiles",
+    "ushell-module-finxos": "github:afeiship/ushell-module-finxos",
     "ushell-module-flutter": "github:afeiship/ushell-module-flutter",
     "ushell-module-git": "afeiship/ushell-module-git",
     "ushell-module-go": "afeiship/ushell-module-go",
