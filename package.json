@@ -56,6 +56,7 @@
     "ushell-module-vscode": "afeiship/ushell-module-vscode",
     "ushell-module-weapp": "github:afeiship/ushell-module-weapp",
     "ushell-module-wget": "afeiship/ushell-module-wget",
+    "ushell-module-whenever": "github:afeiship/ushell-module-whenever",
     "ushell-module-yarn": "afeiship/ushell-module-yarn",
     "ushell-module-yeoman": "afeiship/ushell-module-yeoman"
   }
