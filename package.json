@@ -36,6 +36,7 @@
     "ushell-module-nginx": "afeiship/ushell-module-nginx",
     "ushell-module-nodejs": "afeiship/ushell-module-nodejs",
     "ushell-module-nvm": "afeiship/ushell-module-nvm",
+    "ushell-module-openssl": "github:afeiship/ushell-module-openssl",
     "ushell-module-ostype": "afeiship/ushell-module-ostype",
     "ushell-module-rails": "afeiship/ushell-module-rails",
     "ushell-module-random": "github:afeiship/ushell-module-random",
