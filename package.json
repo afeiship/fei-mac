@@ -49,6 +49,7 @@
     "ushell-module-tar": "afeiship/ushell-module-tar",
     "ushell-module-vim": "afeiship/ushell-module-vim",
     "ushell-module-vscode": "afeiship/ushell-module-vscode",
+    "ushell-module-vuepress": "github:afeiship/ushell-module-vuepress",
     "ushell-module-weapp": "github:afeiship/ushell-module-weapp",
     "ushell-module-wget": "afeiship/ushell-module-wget",
     "ushell-module-whenever": "github:afeiship/ushell-module-whenever",
