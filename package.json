@@ -55,6 +55,6 @@
     "ushell-module-wget": "afeiship/ushell-module-wget",
     "ushell-module-whenever": "github:afeiship/ushell-module-whenever",
     "ushell-module-yarn": "afeiship/ushell-module-yarn",
-    "ushell-module-yeoman": "afeiship/ushell-module-yeoman"
+    "ushell-module-yeoman": "github:afeiship/ushell-module-yeoman"
   }
 }
