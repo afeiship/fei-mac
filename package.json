@@ -48,6 +48,7 @@
     "ushell-module-ssh": "afeiship/ushell-module-ssh",
     "ushell-module-sysinfo": "afeiship/ushell-module-sysinfo",
     "ushell-module-tar": "afeiship/ushell-module-tar",
+    "ushell-module-vagrant": "github:afeiship/ushell-module-vagrant",
     "ushell-module-vim": "afeiship/ushell-module-vim",
     "ushell-module-vscode": "afeiship/ushell-module-vscode",
     "ushell-module-vuepress": "github:afeiship/ushell-module-vuepress",
