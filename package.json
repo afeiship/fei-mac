@@ -21,6 +21,7 @@
     "ushell-module-autojump": "afeiship/ushell-module-autojump",
     "ushell-module-base": "afeiship/ushell-module-base",
     "ushell-module-bash-completion": "github:afeiship/ushell-module-bash-completion",
+    "ushell-module-bin-system-panel": "github:afeiship/ushell-module-bin-system-panel",
     "ushell-module-bower": "afeiship/ushell-module-bower",
     "ushell-module-del": "github:afeiship/ushell-module-del",
     "ushell-module-dotfiles": "afeiship/ushell-module-dotfiles",
