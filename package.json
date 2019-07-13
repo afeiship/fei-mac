@@ -40,6 +40,7 @@
     "ushell-module-nvm": "afeiship/ushell-module-nvm",
     "ushell-module-openssl": "github:afeiship/ushell-module-openssl",
     "ushell-module-ostype": "afeiship/ushell-module-ostype",
+    "ushell-module-phantom": "github:afeiship/ushell-module-phantom",
     "ushell-module-powerline": "github:afeiship/ushell-module-powerline",
     "ushell-module-rails": "afeiship/ushell-module-rails",
     "ushell-module-random": "github:afeiship/ushell-module-random",
