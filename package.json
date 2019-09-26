@@ -47,7 +47,6 @@
     "ushell-module-rbenv": "github:afeiship/ushell-module-rbenv",
     "ushell-module-react": "afeiship/ushell-module-react",
     "ushell-module-ruby": "afeiship/ushell-module-ruby",
-    "ushell-module-rvm": "github:afeiship/ushell-module-rvm",
     "ushell-module-sqlite": "github:afeiship/ushell-module-sqlite",
     "ushell-module-ssh": "github:afeiship/ushell-module-ssh",
     "ushell-module-sysinfo": "afeiship/ushell-module-sysinfo",
