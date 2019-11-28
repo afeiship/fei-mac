@@ -1,5 +1,5 @@
 # fei-mac
-Fei's mac settings.
+> Fei's mac settings.
 
 
 ## overview:
@@ -32,7 +32,7 @@ alias alias-backup='cd $BASH_BASE_PATH/ && gg "Automatic update alias config" &&
 alias macfiles-backup='cd ~/git-oschina/backup-mac-files/ && gg "Automatic backup mac files" && cd -';
 ```
 
-## resource:
+## resources:
 + http://www.cnblogs.com/taosim/articles/2610170.html
 
 
