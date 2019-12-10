@@ -41,6 +41,7 @@
     "ushell-module-random": "github:afeiship/ushell-module-random",
     "ushell-module-rbenv": "github:afeiship/ushell-module-rbenv",
     "ushell-module-react": "afeiship/ushell-module-react",
+    "ushell-module-rime": "github:afeiship/ushell-module-rime",
     "ushell-module-ruby": "afeiship/ushell-module-ruby",
     "ushell-module-sqlite": "github:afeiship/ushell-module-sqlite",
     "ushell-module-ssh": "github:afeiship/ushell-module-ssh",
