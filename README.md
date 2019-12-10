@@ -1,5 +1,5 @@
 # fei-mac
-> Fei's mac settings.
+> Fei's mac settings. (alias for: mac-settings)
 
 
 ## overview:
