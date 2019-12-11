@@ -32,6 +32,7 @@
     "ushell-module-java": "github:afeiship/ushell-module-java",
     "ushell-module-network": "afeiship/ushell-module-network",
     "ushell-module-nodejs": "github:afeiship/ushell-module-nodejs",
+    "ushell-module-npm-check": "github:afeiship/ushell-module-npm-check",
     "ushell-module-nvm": "afeiship/ushell-module-nvm",
     "ushell-module-openssl": "github:afeiship/ushell-module-openssl",
     "ushell-module-ostype": "afeiship/ushell-module-ostype",
