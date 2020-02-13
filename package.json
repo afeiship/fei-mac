@@ -24,6 +24,7 @@
     "ushell-module-bin-system-panel": "github:afeiship/ushell-module-bin-system-panel",
     "ushell-module-bower": "afeiship/ushell-module-bower",
     "ushell-module-del": "github:afeiship/ushell-module-del",
+    "ushell-module-secret": "afeiship/ushell-module-secret",
     "ushell-module-dotfiles": "afeiship/ushell-module-dotfiles",
     "ushell-module-git": "github:afeiship/ushell-module-git",
     "ushell-module-homebrew": "github:afeiship/ushell-module-homebrew",
