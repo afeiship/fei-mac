@@ -20,4 +20,4 @@ do
 done
 
 # new package
-source $BASH_BASE_PATH/node_modules/@feizheng/$dir/index.sh;
+source $BASH_BASE_PATH/node_modules/@feizheng/ushell-module-nodejs/index.sh;
