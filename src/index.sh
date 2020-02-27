@@ -6,8 +6,12 @@ BASH_BASE_PATH=~/github/fei-mac;
 for dir in $(ls $BASH_BASE_PATH/node_modules)
 do
     if [ -d $BASH_BASE_PATH/node_modules/$dir ]; then
-        # echo $dir;
-        source $BASH_BASE_PATH/node_modules/$dir/index.sh;
+        if [[ $dir == *"@feizheng"* ]]; then
+            # echo $dir
+            # source $BASH_BASE_PATH/node_modules/@feizheng/$dir/index.sh;
+        else
+            source $BASH_BASE_PATH/node_modules/$dir/index.sh;
+        fi
     fi
 done
 
@@ -19,5 +23,5 @@ do
     fi
 done
 
-# new package
+# ushell-modules with npm
 source $BASH_BASE_PATH/node_modules/@feizheng/ushell-module-nodejs/index.sh;
