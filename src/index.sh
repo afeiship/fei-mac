@@ -18,3 +18,6 @@ do
         source $BASH_BASE_PATH/src/$dir/index.sh;
     fi
 done
+
+# new package
+source $BASH_BASE_PATH/node_modules/@feizheng/$dir/index.sh;
