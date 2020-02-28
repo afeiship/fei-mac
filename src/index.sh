@@ -24,3 +24,6 @@ done
 
 # ushell-modules with npm
 source $BASH_BASE_PATH/node_modules/@feizheng/ushell-module-nodejs/index.sh;
+
+# mysl
+export PATH="/usr/local/mysql/bin:$PATH";
