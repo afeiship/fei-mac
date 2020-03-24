@@ -7,10 +7,17 @@ for dir in $(ls $BASH_BASE_PATH/node_modules)
 do
     if [ -d $BASH_BASE_PATH/node_modules/$dir ]; then
         if [[ $dir != *"@feizheng"* ]]; then
-            # echo $dir
-            # source $BASH_BASE_PATH/node_modules/@feizheng/$dir/index.sh;
             source $BASH_BASE_PATH/node_modules/$dir/index.sh;
         fi
+    fi
+done
+
+
+# for scoped ushell-module
+for dir in $(ls $BASH_BASE_PATH/node_modules/@feizheng)
+do
+    if [ -d $BASH_BASE_PATH/node_modules/@feizheng/$dir ]; then
+        source $BASH_BASE_PATH/node_modules/@feizheng/$dir/index.sh;
     fi
 done
 
@@ -23,7 +30,7 @@ do
 done
 
 # ushell-modules with npm
-source $BASH_BASE_PATH/node_modules/@feizheng/ushell-module-nodejs/index.sh;
+
 
 # mysl
 export PATH="/usr/local/mysql/bin:$PATH";
