@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/afeiship/fei-mac#readme",
   "dependencies": {
+    "@feizheng/ushell-module-base": "^1.0.1",
     "@feizheng/ushell-module-nodejs": "^1.0.0",
     "ushell-module-autojump": "afeiship/ushell-module-autojump",
     "ushell-module-base": "afeiship/ushell-module-base",
