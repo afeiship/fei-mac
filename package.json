@@ -20,6 +20,7 @@
   "dependencies": {
     "@feizheng/ushell-module-base": "^1.0.1",
     "@feizheng/ushell-module-nodejs": "^1.0.0",
+    "@feizheng/ushell-module-vscode": "^1.0.0",
     "ushell-module-autojump": "afeiship/ushell-module-autojump",
     "ushell-module-bash-completion": "github:afeiship/ushell-module-bash-completion",
     "ushell-module-bin-system-panel": "github:afeiship/ushell-module-bin-system-panel",
@@ -51,7 +52,6 @@
     "ushell-module-tar": "afeiship/ushell-module-tar",
     "ushell-module-vagrant": "github:afeiship/ushell-module-vagrant",
     "ushell-module-vim": "afeiship/ushell-module-vim",
-    "ushell-module-vscode": "afeiship/ushell-module-vscode",
     "ushell-module-vuepress": "github:afeiship/ushell-module-vuepress",
     "ushell-module-weapp": "github:afeiship/ushell-module-weapp",
     "ushell-module-wget": "afeiship/ushell-module-wget",
