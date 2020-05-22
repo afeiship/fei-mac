@@ -19,12 +19,12 @@
   "homepage": "https://github.com/afeiship/fei-mac#readme",
   "dependencies": {
     "@feizheng/ushell-module-base": "^1.0.2",
+    "@feizheng/ushell-module-bash-completion": "^1.0.1",
     "@feizheng/ushell-module-brew": "^1.0.0",
     "@feizheng/ushell-module-deno": "^1.0.1",
     "@feizheng/ushell-module-nodejs": "^1.0.0",
     "@feizheng/ushell-module-vscode": "^1.0.0",
     "ushell-module-autojump": "afeiship/ushell-module-autojump",
-    "ushell-module-bash-completion": "github:afeiship/ushell-module-bash-completion",
     "ushell-module-bin-system-panel": "github:afeiship/ushell-module-bin-system-panel",
     "ushell-module-del": "github:afeiship/ushell-module-del",
     "ushell-module-dotfiles": "afeiship/ushell-module-dotfiles",
