@@ -1,11 +1,11 @@
 {
-  "name": "fei-mac",
+  "name": "mac-settings",
   "version": "1.0.0",
   "description": "Fei's mac settings.",
   "main": "src/index.sh",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/afeiship/fei-mac.git"
+    "url": "git+https://github.com/afeiship/mac-settings.git"
   },
   "keywords": [
     "mac",
@@ -14,9 +14,9 @@
   "author": "afei",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/afeiship/fei-mac/issues"
+    "url": "https://github.com/afeiship/mac-settings/issues"
   },
-  "homepage": "https://github.com/afeiship/fei-mac#readme",
+  "homepage": "https://github.com/afeiship/mac-settings#readme",
   "dependencies": {
     "@feizheng/ushell-module-autojump": "^1.0.0",
     "@feizheng/ushell-module-base": "^1.0.2",

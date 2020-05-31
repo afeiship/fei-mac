@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 ## initail node_modules:
-BASH_BASE_PATH=~/github/fei-mac;
+BASH_BASE_PATH=~/github/mac-settings;
 
 # ushell-modules 
 source $BASH_BASE_PATH/node_modules/ushell-module-secret/index.sh;
