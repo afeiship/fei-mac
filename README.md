@@ -9,5 +9,5 @@ git clone git@github.com:afeiship/mac-settings.git
 
 # 2. install dependencies
 cd mac-settings
-npm i
+npm i --registry=https://npm.pkg.github.com
 ```
