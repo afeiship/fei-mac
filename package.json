@@ -48,7 +48,6 @@
     "@feizheng/ushell-module-wget": "^1.0.0",
     "@feizheng/ushell-module-whenever": "^1.0.0",
     "@feizheng/ushell-module-yarn": "^1.0.0",
-    "@feizheng/ushell-module-yeoman": "^1.0.0",
-    "ushell-module-secret": "afeiship/ushell-module-secret"
+    "@feizheng/ushell-module-yeoman": "^1.0.0"
   }
 }
