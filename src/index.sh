@@ -3,9 +3,6 @@
 ## initail node_modules:
 BASH_BASE_PATH=~/github/mac-settings;
 
-# ushell-modules 
-source $BASH_BASE_PATH/node_modules/ushell-module-secret/index.sh;
-
 # for scoped ushell-module @feizheng
 for dir in $(ls $BASH_BASE_PATH/node_modules/@feizheng)
 do
