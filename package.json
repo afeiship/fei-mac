@@ -41,6 +41,7 @@
     "@feizheng/ushell-module-react": "^1.0.0",
     "@feizheng/ushell-module-rime": "^1.0.0",
     "@feizheng/ushell-module-ruby": "^1.0.0",
+    "@feizheng/ushell-module-scrapy": "^1.0.0",
     "@feizheng/ushell-module-ssh": "^1.0.0",
     "@feizheng/ushell-module-sysinfo": "^1.0.0",
     "@feizheng/ushell-module-tar": "^1.0.0",
