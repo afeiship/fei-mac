@@ -9,5 +9,8 @@ git clone git@github.com:afeiship/mac-settings.git
 
 # 2. install dependencies
 cd mac-settings
-npm i --registry=https://npm.pkg.github.com
+
+# 3. install private/public packages
+npm i @afeiship/ushell-module-secret --registry=https://npm.pkg.github.com
+npm i --registry=https://registry.npmjs.org
 ```
