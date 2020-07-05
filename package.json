@@ -31,7 +31,7 @@
     "@feizheng/ushell-module-hosts": "^1.0.0",
     "@feizheng/ushell-module-iterm2": "^1.0.0",
     "@feizheng/ushell-module-java": "^1.0.0",
-    "@feizheng/ushell-module-nodejs": "^1.0.2",
+    "@feizheng/ushell-module-nodejs": "^1.0.4",
     "@feizheng/ushell-module-openssl": "^1.0.0",
     "@feizheng/ushell-module-ostype": "^1.0.1",
     "@feizheng/ushell-module-powerline": "^1.0.0",
