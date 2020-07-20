@@ -20,7 +20,7 @@
   "dependencies": {
     "@afeiship/ushell-module-secret": "^1.0.3",
     "@feizheng/ushell-module-autojump": "^1.0.0",
-    "@feizheng/ushell-module-base": "^1.0.6",
+    "@feizheng/ushell-module-base": "^1.0.7",
     "@feizheng/ushell-module-bash-completion": "^1.0.1",
     "@feizheng/ushell-module-bin-system-panel": "^1.0.0",
     "@feizheng/ushell-module-del": "^1.0.3",
