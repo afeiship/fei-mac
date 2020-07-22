@@ -34,6 +34,7 @@
     "@feizheng/ushell-module-nodejs": "^1.0.5",
     "@feizheng/ushell-module-openssl": "^1.0.0",
     "@feizheng/ushell-module-ostype": "^1.0.1",
+    "@feizheng/ushell-module-powerline": "^1.0.1",
     "@feizheng/ushell-module-rails": "^1.0.0",
     "@feizheng/ushell-module-random": "^1.0.0",
     "@feizheng/ushell-module-rbenv": "^1.0.1",
