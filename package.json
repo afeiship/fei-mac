@@ -46,7 +46,7 @@
     "@feizheng/ushell-module-ssh": "^1.0.0",
     "@feizheng/ushell-module-sysinfo": "^1.0.0",
     "@feizheng/ushell-module-tar": "^1.0.0",
-    "@feizheng/ushell-module-thor": "^1.0.0",
+    "@feizheng/ushell-module-thor": "^1.0.3",
     "@feizheng/ushell-module-vscode": "^1.0.0",
     "@feizheng/ushell-module-wget": "^1.0.0",
     "@feizheng/ushell-module-whenever": "^1.0.0",
