@@ -27,7 +27,7 @@
     "@feizheng/ushell-module-deno": "^1.0.2",
     "@feizheng/ushell-module-dotfiles": "^1.0.1",
     "@feizheng/ushell-module-ffmpeg": "^1.0.1",
-    "@feizheng/ushell-module-git": "^1.0.15",
+    "@feizheng/ushell-module-git": "^1.0.16",
     "@feizheng/ushell-module-homebrew": "^1.0.1",
     "@feizheng/ushell-module-hosts": "^1.0.0",
     "@feizheng/ushell-module-iterm2": "^1.0.0",
