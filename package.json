@@ -23,6 +23,7 @@
     "@feizheng/ushell-module-base": "^1.0.11",
     "@feizheng/ushell-module-bash-completion": "^1.0.1",
     "@feizheng/ushell-module-bin-system-panel": "^1.0.0",
+    "@feizheng/ushell-module-cra": "^1.0.1",
     "@feizheng/ushell-module-del": "^1.0.3",
     "@feizheng/ushell-module-deno": "^1.0.2",
     "@feizheng/ushell-module-dotfiles": "^1.0.1",
