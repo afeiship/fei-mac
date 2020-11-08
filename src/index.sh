@@ -10,3 +10,10 @@ do
         source $BASH_BASE_PATH/node_modules/@*fei*/$dir/index.sh;
     fi
 done
+
+
+# new scope @jswork package
+# for dir in $(ls $BASH_BASE_PATH/node_modules/@jswork)
+# do
+#     source $BASH_BASE_PATH/node_modules/@jswork/index.sh;
+# done
