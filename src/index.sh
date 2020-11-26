@@ -3,11 +3,10 @@
 ## initail node_modules:
 BASH_BASE_PATH=~/github/mac-settings;
 
-# import secret package
-source $BASH_BASE_PATH/node_modules/@afeiship/ushell-module-secret/index.sh;
-
 # new scope @jswork package
-for dir in $(ls $BASH_BASE_PATH/node_modules/@jswork)
+for dir in $(ls $BASH_BASE_PATH/node_modules/@*)
 do
-    source $BASH_BASE_PATH/node_modules/@jswork/$dir/index.sh;
+    if [ -d $BASH_BASE_PATH/node_modules/@*/$dir ]; then
+        source $BASH_BASE_PATH/node_modules/@*/$dir/index.sh;
+    fi
 done
