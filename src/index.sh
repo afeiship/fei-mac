@@ -3,6 +3,9 @@
 ## initail node_modules:
 BASH_BASE_PATH=~/github/mac-settings;
 
+# bootstrap module
+source $BASH_BASE_PATH/node_modules/ushell-module-bootstrap/index.sh;
+
 # new scope @afeiship/@jswork package
 for dir in $(ls $BASH_BASE_PATH/node_modules/@*)
 do

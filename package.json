@@ -36,7 +36,6 @@
     "@jswork/ushell-module-nginx": "^1.0.0",
     "@jswork/ushell-module-nodejs": "^1.0.3",
     "@jswork/ushell-module-openssl": "^1.0.0",
-    "@jswork/ushell-module-ostype": "^1.0.0",
     "@jswork/ushell-module-powerline": "^1.0.0",
     "@jswork/ushell-module-rails": "^1.0.0",
     "@jswork/ushell-module-random": "^1.0.0",
@@ -54,6 +53,7 @@
     "@jswork/ushell-module-wget": "^1.0.0",
     "@jswork/ushell-module-whenever": "^1.0.0",
     "@jswork/ushell-module-yarn": "^1.0.0",
-    "@jswork/ushell-module-yeoman": "^1.0.0"
+    "@jswork/ushell-module-yeoman": "^1.0.0",
+    "ushell-module-bootstrap": "^1.0.0"
   }
 }
