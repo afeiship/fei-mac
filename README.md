@@ -9,4 +9,7 @@ git clone git@github.com:afeiship/mac-settings.git
 
 # 2. install dependencies
 cd mac-settings
+
+# 3. install private/public packages
+npm i
 ```
