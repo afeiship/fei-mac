@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/afeiship/mac-settings#readme",
   "dependencies": {
-    "@afeiship/ushell-module-secret": "^1.0.19",
+    "@afeiship/ushell-module-secret": "^1.0.20",
     "@jswork/ushell-module-ab": "^1.0.2",
     "@jswork/ushell-module-autojump": "^1.0.0",
     "@jswork/ushell-module-base": "^1.0.2",
