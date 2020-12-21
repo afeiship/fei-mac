@@ -48,6 +48,7 @@
     "@jswork/ushell-module-tar": "^1.0.0",
     "@jswork/ushell-module-thor": "^1.0.0",
     "@jswork/ushell-module-tmux": "^1.0.4",
+    "@jswork/ushell-module-vim": "^1.0.0",
     "@jswork/ushell-module-vscode": "^1.0.0",
     "@jswork/ushell-module-wget": "^1.0.0",
     "@jswork/ushell-module-whenever": "^1.0.0",
