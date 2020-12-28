@@ -40,7 +40,7 @@
     "@jswork/ushell-module-rbenv": "^1.0.0",
     "@jswork/ushell-module-react": "^1.0.0",
     "@jswork/ushell-module-rime": "^1.0.0",
-    "@jswork/ushell-module-ruby": "^1.0.0",
+    "@jswork/ushell-module-ruby": "^1.0.2",
     "@jswork/ushell-module-scrapy": "^1.0.0",
     "@jswork/ushell-module-ssh": "^1.0.0",
     "@jswork/ushell-module-starship": "^1.0.2",
