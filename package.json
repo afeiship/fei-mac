@@ -53,8 +53,8 @@
     "@jswork/ushell-module-vscode": "^1.0.0",
     "@jswork/ushell-module-wget": "^1.0.0",
     "@jswork/ushell-module-whenever": "^1.0.0",
-    "@jswork/ushell-module-yarn": "^1.0.0",
-    "@jswork/ushell-module-yeoman": "^1.0.1",
+    "@jswork/ushell-module-yarn": "^1.0.1",
+    "@jswork/ushell-module-yeoman": "^1.0.3",
     "ushell-module-bootstrap": "^1.0.0"
   }
 }
