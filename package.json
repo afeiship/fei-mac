@@ -21,7 +21,7 @@
     "@afeiship/ushell-module-secret": "^1.0.20",
     "@jswork/ushell-module-autojump": "^1.0.0",
     "@jswork/ushell-module-aws": "^1.0.0",
-    "@jswork/ushell-module-base": "^1.0.4",
+    "@jswork/ushell-module-base": "^1.0.5",
     "@jswork/ushell-module-bash-completion": "^1.0.0",
     "@jswork/ushell-module-bin-system-panel": "^1.0.0",
     "@jswork/ushell-module-cra": "^1.0.0",
