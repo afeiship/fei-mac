@@ -13,3 +13,6 @@ do
         source $BASH_BASE_PATH/node_modules/@*/$dir/index.sh;
     fi
 done
+
+# export LC_ALL=en_US.UTF-8  
+# export LANG=en_US.UTF-8
